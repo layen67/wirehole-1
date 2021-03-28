@@ -49,7 +49,7 @@ cd /var/lib/docker
 
 # wirehole
 git clone https://github.com/layen67/wirehole-1.git &&
-    cd wirehole &&
+    cd wirehole-1 &&
     docker-compose up -d
     
 sleep 10
